@@ -14,6 +14,7 @@ This folder contains my solutions to array problems while learning DSA.
 | 88   | Merge Sorted Array                                        | Three Pointers / Sorting  |
 | 122  | Best Time to Buy and Sell Stock II                        | Greedy                    |
 | 189  | Rotate Array                                              | Array Manipulation        |
+| 217  | Contains Duplicate                                        | Brute Force → HashSet     |
 | 283  | Move Zeroes                                               | Two Pointers              |
 | 1365 | How Many Numbers Are Smaller Than the Current Number      | Brute Force               |
 
