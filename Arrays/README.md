@@ -13,6 +13,7 @@ This folder contains my solutions to array problems while learning DSA.
 | 27   | Remove Element                                            | Two Pointers              |
 | 88   | Merge Sorted Array                                        | Three Pointers / Sorting  |
 | 122  | Best Time to Buy and Sell Stock II                        | Greedy                    |
+| 169  | Majority Element                                          | Boyer-Moore Algorithm     |
 | 189  | Rotate Array                                              | Array Manipulation        |
 | 217  | Contains Duplicate                                        | Brute Force → HashSet     |
 | 283  | Move Zeroes                                               | Two Pointers              |
