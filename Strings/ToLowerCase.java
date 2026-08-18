@@ -8,9 +8,12 @@ public class ToLowerCase {
             if(ch>='a' && ch<='z'){
                 result.append(ch);
             }
-            if(ch>='A' && ch<='Z'){
+            else if(ch>='A' && ch<='Z'){
                 ch=(char)(ch+32);
                 result.append(ch);
+            }
+            else{
+                result.append(ch); //for other characters in the String
             }
         }
         return result.toString();
